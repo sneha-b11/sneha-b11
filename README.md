@@ -42,7 +42,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="40"> Live Projects on Vercel
+## <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="60"> Live Projects on Vercel
 
 ### 🧩 Drag and Drop Task Board  
 A React-based task manager with drag-and-drop support.  
