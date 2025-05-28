@@ -5,8 +5,8 @@
 - 🎓 I'm a Computer Science Engineering graduate from **JECRC University**.
 - 💻 I specialize in **web development** using `HTML`, `CSS`, `JavaScript`, and `React.js`.
 - 🧠 I have hands-on experience in **AI evaluation**, contributing to model improvements through data analysis and feedback.
-- 📊 I enjoy building interactive dashboards and analyzing data using **Power BI**, `MySQL`, and `Excel`.
-- 🚀 Skilled in **team coordination**, **workflow optimization**, and **requirement gathering** — I love blending tech with management for impactful results.
+- 📊 I enjoy building interactive dashboards and analyzing data using `Power BI`, `MySQL`, `Trello` and `Excel`.
+- 🚀 Skilled in `team coordination`, `workflow optimization`, and `requirement gathering` — I love blending tech with management for impactful results.
 
 ---
 
